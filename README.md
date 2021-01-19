@@ -9,4 +9,4 @@ conceitos sobre a Internet e ensinaremos a criar páginas da WEB de forma bem di
 <hr/>
 
 <h4><b>Aulas:</b> :vhs: 18 Video-aulas</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h4><b>Status do Curso:</b> :white_check_mark: Concluído
